@@ -1,0 +1,7 @@
+posts/**/*.html
+__pycache__/
+.DS_Store
+*.jpg
+*.jpeg
+*.png
+*.heic
